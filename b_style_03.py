@@ -1,0 +1,1 @@
+print("How to check commit")
